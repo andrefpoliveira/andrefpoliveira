@@ -22,7 +22,7 @@
 
 ---
 
-<img align="left" alt="andrefpoliveira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andrefpoliveira&show_icons=true&hide_border=true" />
+<img align="center" alt="andrefpoliveira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andrefpoliveira&show_icons=true&hide_border=true" />
 
 
 

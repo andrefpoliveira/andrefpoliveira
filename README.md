@@ -22,7 +22,7 @@
 
 ---
 
-<img align="left" alt="andrefpoliveira's Github Stats" src="https://github-readme-stats.andrefpoliveira.vercel.app/api?username=andrefpoliveira&show_icons=true&hide_border=true" />
+[![andrefpoliveira's github stats](https://github-readme-stats.vercel.app/api?username=andrefpoliveira)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -12,12 +12,14 @@
 <br />
 
 ## Tools and Languages
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
+<p>
+  <code><img height="25" src="https://github.com/andrefpoliveira/andrefpoliveira/blob/master/svg/python.svg" alt="Python"></code>
+  <code><img height="25" src="https://github.com/andrefpoliveira/andrefpoliveira/blob/master/svg/java.svg" alt="Java"></code>
+  <code><img height="25" src="https://github.com/andrefpoliveira/andrefpoliveira/blob/master/svg/html.svg" alt="HTML"></code>
+  <code><img height="25" src="https://github.com/andrefpoliveira/andrefpoliveira/blob/master/svg/css.svg" alt="CSS"></code>
+  <code><img height="25" src="https://github.com/andrefpoliveira/andrefpoliveira/blob/master/svg/js.svg" alt="JavaScript"></code>
+  <code><img height="25" src="https://github.com/andrefpoliveira/andrefpoliveira/blob/master/svg/vscode.svg" alt="Visual Studio Code"></code>
+</p>
 
 <br />
 

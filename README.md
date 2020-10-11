@@ -3,6 +3,7 @@
 ## I'm a Computer Engineering Student
 - 🌱 Currently in the 3rd year
 - 🏃 I practice Athletics since I'm 9 years old
+- 💻 Junior Developer at [Tapple](https://tapple.world/)
 - ⭐ 2020's Objective: Contribute more to open source
 
 ## Connect with me!

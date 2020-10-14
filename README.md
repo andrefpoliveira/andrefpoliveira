@@ -20,6 +20,7 @@
   <code><img height="25" src="https://github.com/andrefpoliveira/andrefpoliveira/blob/master/svg/css.svg" alt="CSS"></code>
   <code><img height="25" src="https://github.com/andrefpoliveira/andrefpoliveira/blob/master/svg/js.svg" alt="JavaScript"></code>
   <code><img height="25" src="https://github.com/andrefpoliveira/andrefpoliveira/blob/master/svg/vscode.svg" alt="Visual Studio Code"></code>
+  <code><img height="25" src="https://github.com/andrefpoliveira/andrefpoliveira/blob/master/svg/intellij.svg" alt="Intellij"></code>
 </p>
 
 <br />

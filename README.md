@@ -26,8 +26,8 @@
 
 ---
 
-<img align="center" alt="andrefpoliveira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andrefpoliveira&show_icons=true&hide_border=true" />
-
+<img align="left" alt="andrefpoliveira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=andrefpoliveira&show_icons=true&hide_border=true" />
+<img align="right" alt="andrefpoliveira's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefpoliveira" />
 
 
 

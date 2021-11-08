@@ -3,7 +3,6 @@
 ## I'm a Computer Engineering Student
 - 🌱 Currently in the 3rd year
 - 🏃 I practice Athletics since I'm 9 years old
-- 💻 Junior Java Developer at [Tapple](https://tapple.world/)
 
 ## Connect with me!
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

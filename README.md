@@ -1,7 +1,7 @@
 ### Hi there, I'm André Oliveira 👋
 
 ## I'm a Computer Engineering Student
-- 🌱 Currently in the 3rd year
+- 🌱 Currently in the 1rd year MsC
 - 🏃 I practice Athletics since I'm 9 years old
 
 ## Connect with me!

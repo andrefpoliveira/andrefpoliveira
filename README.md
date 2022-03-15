@@ -2,6 +2,7 @@
 
 ## I'm a Computer Engineering Student
 - 🌱 Currently in the 1st year MsC
+- 📱 Building a Flutter App for Combined Events
 - 🏃 I practice Athletics since I'm 9 years old
 
 ## Connect with me!

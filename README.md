@@ -1,8 +1,7 @@
 ### Hi there, I'm André Oliveira 👋
 
 ## I'm a Computer Engineering Student
-- 🌱 Currently in the 1st year MsC
-- 📱 Building a Flutter App for Combined Events
+- 🌱 Currently in the 2nd year MsC
 - 🏃 I practice Athletics since I'm 9 years old
 
 ## Connect with me!

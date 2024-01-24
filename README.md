@@ -19,3 +19,5 @@ Check out my [website](https://andrefpoliveira.github.io/) to learn more about m
 
 ## 📫 Contact
 Feel free to contact me on [Instagram](https://www.instagram.com/andrefpoliiveiira/) or [LinkedIn](https://www.linkedin.com/in/andrefpoliiveiira/).
+
+![André Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefpoliveira&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)

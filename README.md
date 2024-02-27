@@ -11,7 +11,7 @@ Check out my [website](https://andrefpoliveira.github.io/) to learn more about m
 
 **Backend Development:** `Python` `Flask` `Firebase` `SQLAlchemy`
 
-**AI:** `Tensorflow`
+**AI:** `PyTorch`
 
 ## ✨ Fun Facts
 - I've been doing athletics since I was 9 years old.
